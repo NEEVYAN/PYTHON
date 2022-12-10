@@ -1,0 +1,1 @@
+print("hello world","hii his is another statement",78)
